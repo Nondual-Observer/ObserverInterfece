@@ -99,7 +99,7 @@ For legs of lengths 3 and 4, the hypotenuse can be calculated as 5. The same len
 
 <a id="example-geometry-length"></a>
 <details markdown="1" id="details-example-geometry-length">
-<summary><strong>▷ [Example] Geometry and the calculation of length</strong> <a href="#example-geometry-length" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Example] Geometry and the calculation of length</strong></summary>
 
 For a right triangle with legs $a$, $b$ and hypotenuse $c$:
 
@@ -130,7 +130,7 @@ A related idea lies at the heart of Immanuel Kant's epistemology: dispersed impr
 
 <a id="formal-observer-role"></a>
 <details markdown="1" id="details-formal-observer-role">
-<summary><strong>▷ [Formal description] Typing the observer's role</strong> <a href="#formal-observer-role" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] Typing the observer's role</strong></summary>
 
 In the model, scene states and the role of observation have different types. The set $X$ contains states; the symbol $O$ denotes a role realized through a step of change and a preserved reading. The notation
 
@@ -178,7 +178,7 @@ The two sides of one boundary remain sides of one distinction rather than two se
 
 <a id="formal-partition-involution"></a>
 <details markdown="1" id="details-formal-partition-involution">
-<summary><strong>▷ [Formal description] Partition of the state space and an involutive step</strong> <a href="#formal-partition-involution" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] Partition of the state space and an involutive step</strong></summary>
 
 Let the state space associated with a given distinction be a set $X$. In the two-sided regime, drawing a boundary partitions it into two disjoint nonempty subsets $A$ and $B$ (disjoint union):
 
@@ -240,7 +240,7 @@ The proposed approach resolves this difficulty by separating functional roles. T
 
 <a id="context-varela-involution"></a>
 <details markdown="1" id="details-context-varela-involution">
-<summary><strong>▷ [Context] Varela's autonomous value and free involution</strong> <a href="#context-varela-involution" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Context] Varela's autonomous value and free involution</strong></summary>
 
 In Francisco Varela's calculus of self-reference ([*“A Calculus for Self-Reference”*, 1975](https://homepages.math.uic.edu/~kauffman/VarelaCSR.pdf)), which develops G. Spencer-Brown's apparatus, a “third autonomous value” is introduced as the result of closing an operation onto itself. Such a state is admissible in three-valued logics. In the class of models based on a free involution (requiring the absence of fixed states, $\alpha x\neq x$), however, a finite odd carrier excludes free reversal: every involution on a finite odd set necessarily has a fixed point that stops the step of change. The study [“Observer and Distinction: Discrete and Continuous Manifestations of an Isotropic Boundary”](https://habr.com/ru/articles/1058672/) considers the distinction between a discrete pair and the center of its continuous extension. The comparison with Varela's autonomous value is an analogy only; no operation-preserving mapping between the two calculi is constructed here.
 
@@ -257,7 +257,7 @@ An elementary distinction joins state change with preservation of the relation b
 
 <a id="formal-boundary-pair-center"></a>
 <details markdown="1" id="details-formal-boundary-pair-center">
-<summary><strong>▷ [Formal description] Boundary pair, reflection, and center</strong> <a href="#formal-boundary-pair-center" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] Boundary pair, reflection, and center</strong></summary>
 
 A free involution on a discrete carrier determines pairs of opposite states. A geometric center appears only after choosing a continuous extension in which this involution is realized by central reflection.  
 On the real line, a pair of boundary points may be represented by symmetric coordinates $P_R=\{-a,a\}$ (with scale parameter $a>0$, as in the diagram above), or by $\{0,1\}$ on the unit interval $[0,1]$. Mutual exchange is given by the reflection $x\mapsto -x$ (respectively, $x\mapsto 1-x$). The unique fixed point of this reflection is the geometric center of symmetry $\sigma=0$ (respectively, $\sigma_{1/2}=1/2$). This continuous invariant is strictly excluded from the discrete set of boundary states:
@@ -268,7 +268,7 @@ $$\sigma \notin P_R.$$
 
 <a id="example-unmarked-pair-algebra"></a>
 <details markdown="1" id="details-example-unmarked-pair-algebra">
-<summary><strong>▷ [Example] An algebraic model of an unmarked pair</strong> <a href="#example-unmarked-pair-algebra" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Example] An algebraic model of an unmarked pair</strong></summary>
 
 The roots of the equation $x^2+1=0$ form a pair: the imaginary unit $i$ and its opposite $-i$. The automorphism of complex conjugation $z\mapsto\bar z$ exchanges the two roots while preserving addition and multiplication in the field $\mathbb C$. The field structure determines the pair $\{i,-i\}$ while leaving the two members mutually equal in status: selecting one root as a distinguished representative, or choosing an orientation of the complex structure, requires an external convention.
 
@@ -276,7 +276,7 @@ The roots of the equation $x^2+1=0$ form a pair: the imaginary unit $i$ and its 
 
 <a id="consequence-affine-shift-reflection"></a>
 <details markdown="1" id="details-consequence-affine-shift-reflection">
-<summary><strong>▷ [Consequence] Affine shift and central reflection</strong> <a href="#consequence-affine-shift-reflection" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Consequence] Affine shift and central reflection</strong></summary>
 
 In the discrete vector space $\mathbb F_2^n$, the mutual-exchange operation $x\mapsto x\oplus a$ is an affine translation (shift) with no fixed points when $a\neq0$. On the real interval $[0,1]$, the operation $x\mapsto1-x$ is central reflection about the point $1/2$. The law of mutual exchange and the partition into pairs do not depend on the choice of origin. Changing the origin changes state labels while preserving the relation of opposition itself.
 
@@ -315,7 +315,7 @@ The interface of observation coordinates the step of change with the reading of 
 
 <a id="formal-observation-interface"></a>
 <details markdown="1" id="details-formal-observation-interface">
-<summary><strong>▷ [Formal description] The interface of observation and the universal property of the quotient</strong> <a href="#formal-observation-interface" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] The interface of observation and the universal property of the quotient</strong></summary>
 
 Let $X$ be a state space. The coupled pair of functions is described by two maps:
 
@@ -465,7 +465,7 @@ We can now take the next step: move from one elementary two-sided distinction to
 
 <a id="formal-resolutions-counting"></a>
 <details markdown="1" id="details-formal-resolutions-counting">
-<summary><strong>▷ [Formal specification] Joint admissibility, roles of the prohibitions, and counting solutions</strong> <a href="#formal-resolutions-counting" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal specification] Joint admissibility, roles of the prohibitions, and counting solutions</strong></summary>
 
 **Joint admissibility.** For a concrete problem, let $\mathcal C$ be a set of candidates and let $P_D,P_F,P_C\colon\mathcal C\to\{0,1\}$ be the tested conditions. They express the mathematical realization of the initial requirements adopted for this problem. The prohibited subsets and the set of resolutions are
 
@@ -591,7 +591,7 @@ In this sequence, a single active line is immediately followed by a three-pair s
 
 <a id="formal-rank-polar-pair"></a>
 <details markdown="1" id="details-formal-rank-polar-pair">
-<summary><strong>▷ [Formal description] Rank, number of states, and the choice of a polar pair</strong> <a href="#formal-rank-polar-pair" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] Rank, number of states, and the choice of a polar pair</strong></summary>
 
 For $n\ge1$ independent binary distinctions, the full carrier is $Q_n=\{0,1\}^n$ and contains $2^n$ states. Independence here means that all combinations of coordinate values are admissible.
 
@@ -658,7 +658,7 @@ The choice of labeling determines the written codes and the polar pair; subseque
 
 <a id="formal-graph-structure-symmetries"></a>
 <details markdown="1" id="details-formal-graph-structure-symmetries">
-<summary><strong>▷ [Formal description] Graph structure and classification of scene symmetries</strong> <a href="#formal-graph-structure-symmetries" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] Graph structure and classification of scene symmetries</strong></summary>
 
 On the active carrier $X_{\mathrm{adm}}=\{0,1\}^3\setminus\{000,111\}$, the complete graph of pairwise relations $K_6$ contains $\binom62=15$ pairs. The Hamming metric $d_H$ partitions the edges of the complete graph strictly into three disjoint regular layers:
 
@@ -768,7 +768,7 @@ Correspondence of states in the three examples:
 
 <a id="formal-color-sound-arithmetic"></a>
 <details markdown="1" id="details-formal-color-sound-arithmetic">
-<summary><strong>▷ [Formal description] Compatibility of the color, sound, and arithmetic labelings</strong> <a href="#formal-color-sound-arithmetic" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] Compatibility of the color, sound, and arithmetic labelings</strong></summary>
 
 The table defines bijections from the active scene to three sets of labels. For color, use $c(x)=x$ on the vertices of the RGB cube. For an opposite pair $y=\mathbf1-x$,
 
@@ -833,7 +833,7 @@ The second part (“The First Mathematical Model of Distinction”) will examine
 
 <a id="formal-part-two-program"></a>
 <details markdown="1" id="details-formal-part-two-program">
-<summary><strong>▷ [Formal description] Mathematical program of Part II</strong> <a href="#formal-part-two-program" title="Direct link to this block">¶</a></summary>
+<summary><strong>▷ [Formal description] Mathematical program of Part II</strong></summary>
 
 1. **Uniqueness of the exchange step ($40320\to105\to7\to1$):** among all $8!=40320$ possible permutations of cube states, the imposed negative conditions (the requirement of a free involution $\kappa^2=\mathrm{id}$, $\kappa(x)\neq x$, compatibility with translations, and compatibility with permutations of distinctions) successively eliminate the remaining alternatives, leaving exactly one joint solution within this class of cube permutations—the full inverse reversal $\kappa$.
 2. **Symmetries of the carrier and classification of bases:** the group $\mathrm{GL}_3(\mathbb F_2)$ of order 168 acts transitively on 168 ordered coordinate bases; after identifying bases that differ only by permutations of the three axes, 28 classes remain ($168/|S_3|=28$). Metric isometries of the cube form the hyperoctahedral group of order 48, while the stabilizer of the polar vector $111$ in $\mathrm{GL}_3(\mathbb F_2)$ has order 24 (4 classes after quotienting by $S_3$).
