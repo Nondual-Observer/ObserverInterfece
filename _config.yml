@@ -1,0 +1,10 @@
+title: "The Interface of Observation"
+description: "A Structural and Mathematical Model of Distinction"
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
