@@ -724,7 +724,7 @@ The six tones carry the same octahedral system of relations. The complementary g
 
 To make the relational structure visible in musical tuning, the three-dimensional octahedron is projected onto the plane of a twelve-tone chromatic circle. Under this projection, the three Hamming-metric layers become three different types of lines:
 
-![Chromatic circle projection](figures/english/1024w/6&6_all.png)
+![Chromatic circle projection](figures/english/1024w/6_and_6_all.png)
 
 - **Whole tones (distance 1, solid hexagon):** adjacency in the six-vertex cycle corresponds to a whole-tone interval (C → D → E → F♯ → G♯ → A♯ → C). In the planar diagram this step forms the solid closed contour of the outer hexagon.
 - **Two triads (distance 2, dashed triangles):** the six notes split into two augmented triads—two isolated triples: C, E, G♯ and D, F♯, A♯ (the exact structural analogue of the RGB and CMY triples). In the diagram they form two opposing dashed triangles.
@@ -800,7 +800,7 @@ The union $R_1\cup R_2$ is $K_{2,2,2}$. These correspondences preserve the chose
 
 The color vertices, notes of the whole-tone scale, and divisors of 30 realize one and the same three-layer relational scheme. A further development of this structure into a 12-part icosahedral system is investigated in [“Combinatorial Synesthesia: Chords and Colors as Arithmetic of Divisors on the Icosahedron”](https://habr.com/ru/articles/1058556/).
 
-![12-part icosahedral extension](figures/english/1024w/12&ikosaedr.png)
+![12-part icosahedral extension](figures/english/1024w/12_ikosaedr.png)
 
 
 
