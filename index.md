@@ -848,8 +848,8 @@ The second part (“The First Mathematical Model of Distinction”) will examine
 Individual parts of the model have been discussed in previously published articles:
 
 - [“The Observer as a Finite Structure of Distinction”](https://www.reddit.com/r/cybernetics/comments/1tbc6wm/observer_as_a_finite_structure_of_distinction/) — development of the minimal observer model on the Boolean cube, the six-point scene, the octahedron, and an opponent color wheel.
-- [“Observer and Distinction: Discrete and Continuous Manifestations of an Isotropic Boundary”](https://www.reddit.com/r/combinatorics/comments/1us793e/observer_and_distinction_dual_faces_of_one/) — the boundary of the discrete model, the prohibition of a fixed point of reversal, and the passage to a continuous space with a center of symmetry.
-- [“Combinatorial Synesthesia: Chords and Colors as Arithmetic of Divisors on the Icosahedron”](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
+- [“Observer and Distinction: Dual Faces of One ∞”](https://www.reddit.com/r/combinatorics/comments/1us793e/observer_and_distinction_dual_faces_of_one/) — the boundary of the discrete model, the prohibition of a fixed point of reversal, and the passage to a continuous space with a center of symmetry.
+- [“Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron”](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
 
 An earlier version of the project is available in the [DOT: Distinction Observable Theory archive, version 4](https://github.com/Nondual-Observer/DOTheory).
 
