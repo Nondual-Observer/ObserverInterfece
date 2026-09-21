@@ -847,31 +847,13 @@ The second part (“The First Mathematical Model of Distinction”) will examine
 
 Individual parts of the model have been discussed in previously published articles:
 
-- [“The Observer as a Finite Structure of Distinction”](https://habr.com/ru/articles/1058448/) — development of the minimal observer model on the Boolean cube, the six-point scene, the octahedron, and an opponent color wheel.
-- [“Observer and Distinction: Discrete and Continuous Manifestations of an Isotropic Boundary”](https://habr.com/ru/articles/1058672/) — the boundary of the discrete model, the prohibition of a fixed point of reversal, and the passage to a continuous space with a center of symmetry.
-- [“Combinatorial Synesthesia: Chords and Colors as Arithmetic of Divisors on the Icosahedron”](https://habr.com/ru/articles/1058556/) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
+- [“The Observer as a Finite Structure of Distinction”](https://www.reddit.com/r/cybernetics/comments/1tbc6wm/observer_as_a_finite_structure_of_distinction/) — development of the minimal observer model on the Boolean cube, the six-point scene, the octahedron, and an opponent color wheel.
+- [“Observer and Distinction: Discrete and Continuous Manifestations of an Isotropic Boundary”](https://www.reddit.com/r/combinatorics/comments/1us793e/observer_and_distinction_dual_faces_of_one/) — the boundary of the discrete model, the prohibition of a fixed point of reversal, and the passage to a continuous space with a center of symmetry.
+- [“Combinatorial Synesthesia: Chords and Colors as Arithmetic of Divisors on the Icosahedron”](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
 
-An earlier version of the project is available in the [DOT: Distinction Observable Theory archive, version 4](https://doi.org/10.5281/zenodo.20257220).
+An earlier version of the project is available in the [DOT: Distinction Observable Theory archive, version 4](https://github.com/Nondual-Observer/DOTheory).
 
 
-
-## Direct Links to Collapsible Mathematical Blocks
-
-Each ▷ block has a stable anchor. On the published GitHub Pages site, append one of these fragments to the article URL; the small script below opens the corresponding block automatically.
-
-- [Geometry and calculation of length](#example-geometry-length)
-- [Typing the observer's role](#formal-observer-role)
-- [Partition and involutive step](#formal-partition-involution)
-- [Varela's autonomous value and free involution](#context-varela-involution)
-- [Boundary pair, reflection, and center](#formal-boundary-pair-center)
-- [Algebraic model of an unmarked pair](#example-unmarked-pair-algebra)
-- [Affine shift and central reflection](#consequence-affine-shift-reflection)
-- [Interface of observation and quotient](#formal-observation-interface)
-- [Joint admissibility and counting solutions](#formal-resolutions-counting)
-- [Rank and choice of polar pair](#formal-rank-polar-pair)
-- [Graph structure and scene symmetries](#formal-graph-structure-symmetries)
-- [Color, sound, and arithmetic labelings](#formal-color-sound-arithmetic)
-- [Mathematical program of Part II](#formal-part-two-program)
 
 <script>
 window.MathJax = {
