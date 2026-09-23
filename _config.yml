@@ -1,5 +1,8 @@
 title: "The Interface of Observation"
 description: "A Structural and Mathematical Model of Distinction"
+author: "Igor Zhuk"
+email: "igor.m.zhuk@gmail.com"
+keywords: "observer, distinction theory, observation interface, cybernetics, information theory, combinatorics, graph theory, boolean cube, octahedron, philosophy of cognition, дискретная математика, теория различения"
 markdown: kramdown
 kramdown:
   input: GFM

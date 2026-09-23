@@ -2,9 +2,22 @@
 layout: default
 title: "The Interface of Observation: A Structural and Mathematical Model of Distinction"
 description: "Can the observer and the observer's primary act be introduced into rigorous science without speculative metaphysics or an infinite regress?"
+author: "Igor Zhuk"
+email: "igor.m.zhuk@gmail.com"
+keywords: "observer, distinction theory, observation interface, cybernetics, information theory, combinatorics, graph theory, boolean cube, octahedron, philosophy of cognition, discrete mathematics"
+lang: en
 ---
 
+<div class="lang-switch">
+  <span>🌐 <strong>Language:</strong> English</span>
+  <a href="ru/" class="lang-btn">🇷🇺 Читать на русском (RU)</a>
+</div>
+
 # The Interface of Observation: A Structural and Mathematical Model of Distinction
+
+**Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
+*Preprint / Research Project DOT (Distinction Observable Theory)*  
+*Archive DOI:* [10.5281/zenodo.20257220](https://doi.org/10.5281/zenodo.20257220)
 
 *Can the observer and the observer's primary act be introduced into rigorous science while avoiding speculative metaphysics and a vicious regress (“who observes the observer”)?*
 
@@ -854,6 +867,18 @@ Individual parts of the model have been discussed in previously published articl
 An earlier version of the project is available in the [DOT: Distinction Observable Theory archive, version 4](https://github.com/Nondual-Observer/DOTheory).
 
 
+
+---
+
+### License and Copyright
+
+&copy; 2026 Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com)).  
+
+This work is published under an open, public, non-commercial license: **Creative Commons Attribution-NonCommercial 4.0 International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))**.
+
+* **Free Use:** You are free to read, download, share, cite, and use this material for any educational, research, and personal non-commercial purposes.
+* **Attribution:** Appropriate credit must be given to the author (Igor Zhuk) with a link to the original publication ([https://nondual-observer.github.io/ObserverInterfece/](https://nondual-observer.github.io/ObserverInterfece/)).
+* **Non-Commercial:** Commercial use of this material without prior written permission from the author is strictly prohibited.
 
 <script>
 window.MathJax = {

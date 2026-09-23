@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,9 +7,21 @@
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% endif %}
+  <meta name="author" content="Igor Zhuk">
+  <meta name="keywords" content="{{ page.keywords | default: site.keywords }}">
+  
+  <!-- OpenGraph Metadata -->
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  {% if page.description %}
+  <meta property="og:description" content="{{ page.description }}">
+  {% endif %}
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:locale" content="{% if page.lang == 'ru' %}ru_RU{% else %}en_US{% endif %}">
+
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   
-  <!-- MathJax Configuration -->
+  <!-- MathJax 3 Configuration -->
   <script>
     window.MathJax = {
       tex: {
@@ -56,7 +68,36 @@
     .container {
       max-width: 860px;
       margin: 0 auto;
-      padding: 3rem 1.5rem 5rem 1.5rem;
+      padding: 2.5rem 1.5rem 5rem 1.5rem;
+    }
+
+    .lang-switch {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: var(--color-canvas-subtle);
+      border: 1px solid var(--color-border-default);
+      border-radius: 8px;
+      padding: 0.6rem 1rem;
+      margin-bottom: 2rem;
+      font-size: 0.95rem;
+    }
+
+    .lang-switch a.lang-btn {
+      font-weight: 600;
+      color: var(--color-accent-fg);
+      text-decoration: none;
+      padding: 0.3rem 0.75rem;
+      background: #ffffff;
+      border: 1px solid var(--color-border-default);
+      border-radius: 6px;
+      transition: all 0.15s ease;
+    }
+
+    .lang-switch a.lang-btn:hover {
+      background: var(--color-accent-fg);
+      color: #ffffff;
+      text-decoration: none;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -204,11 +245,16 @@
 
     .site-footer {
       margin-top: 4rem;
-      padding-top: 1.5rem;
+      padding-top: 2rem;
       border-top: 1px solid var(--color-border-muted);
       color: var(--color-fg-muted);
       font-size: 0.9rem;
       text-align: center;
+      line-height: 1.6;
+    }
+
+    .site-footer p {
+      margin-bottom: 0.6rem;
     }
 
     @media (max-width: 768px) {
@@ -224,6 +270,11 @@
       h2 {
         font-size: 1.4rem;
       }
+      .lang-switch {
+        flex-direction: column;
+        gap: 0.5rem;
+        text-align: center;
+      }
     }
   </style>
 </head>
@@ -232,9 +283,44 @@
     {{ content }}
     
     <footer class="site-footer">
-      <p>Research project on Distinction Observable Theory (DOT / TNR).</p>
+      {% if page.lang == 'ru' %}
+      <p><strong>Автор исследования:</strong> Игорь Жук &bull; <a href="mailto:igor.m.zhuk@gmail.com">igor.m.zhuk@gmail.com</a></p>
+      <p>Исследовательский проект <em>Distinction Observable Theory (DOT / ТНР)</em></p>
+      <p><a href="https://doi.org/10.5281/zenodo.20257220">Zenodo DOI: 10.5281/zenodo.20257220</a> &bull; <a href="https://github.com/Nondual-Observer/ObserverInterfece">GitHub репозиторий</a></p>
+      <p><small>&copy; 2026 Игорь Жук. Материал доступен по открытой некоммерческой лицензии <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.ru" target="_blank" rel="noopener">Creative Commons CC BY-NC 4.0</a> (свободное распространение с указанием авторства, без коммерческого использования).</small></p>
+      {% else %}
+      <p><strong>Author:</strong> Igor Zhuk &bull; <a href="mailto:igor.m.zhuk@gmail.com">igor.m.zhuk@gmail.com</a></p>
+      <p>Research project on <em>Distinction Observable Theory (DOT / TNR)</em></p>
       <p><a href="https://doi.org/10.5281/zenodo.20257220">Zenodo DOI: 10.5281/zenodo.20257220</a> &bull; <a href="https://github.com/Nondual-Observer/ObserverInterfece">GitHub Repository</a></p>
+      <p><small>&copy; 2026 Igor Zhuk. Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Creative Commons CC BY-NC 4.0</a> (free for non-commercial use with attribution).</small></p>
+      {% endif %}
     </footer>
   </main>
+
+  <script>
+  (function () {
+    function openHashTarget() {
+      if (!window.location.hash) return;
+      var id = decodeURIComponent(window.location.hash.slice(1));
+      var target = document.getElementById(id);
+      if (!target) return;
+
+      var details = target.tagName && target.tagName.toLowerCase() === 'details'
+        ? target
+        : target.nextElementSibling && target.nextElementSibling.tagName && target.nextElementSibling.tagName.toLowerCase() === 'details'
+          ? target.nextElementSibling
+          : target.closest && target.closest('details');
+
+      if (details) details.open = true;
+
+      window.setTimeout(function () {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 0);
+    }
+
+    document.addEventListener('DOMContentLoaded', openHashTarget);
+    window.addEventListener('hashchange', openHashTarget);
+  })();
+  </script>
 </body>
 </html>
