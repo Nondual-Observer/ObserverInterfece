@@ -17,7 +17,7 @@ This repository hosts the web edition of the research article investigating the 
 * [`figures/english/1024w/`](figures/english/1024w/) — High-resolution figures and animated geometric duality diagrams.
 * `_layouts/default.html` & `_config.yml` — GitHub Pages configuration with MathJax 3 LaTeX rendering and responsive typography.
 
-### Academic Citation & Preprint
+### Project Archive & Author
 
-* **Zenodo DOI:** [10.5281/zenodo.20257220](https://doi.org/10.5281/zenodo.20257220)
-* **Author:** Nondual-Observer / Distinction Observable Theory (DOT / TNR) Research Group
+* **Project Archive:** [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory) (Russian edition: [README_RU.md](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md))
+* **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com)) / Distinction Observable Theory (DOT / TNR) Research Group

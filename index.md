@@ -17,7 +17,7 @@ lang: en
 
 **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Preprint / Research Project DOT (Distinction Observable Theory)*  
-*Archive DOI:* [10.5281/zenodo.20257220](https://doi.org/10.5281/zenodo.20257220)
+*Project Archive:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory)
 
 *Can the observer and the observer's primary act be introduced into rigorous science while avoiding speculative metaphysics and a vicious regress (“who observes the observer”)?*
 
