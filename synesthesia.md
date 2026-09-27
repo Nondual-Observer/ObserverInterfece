@@ -53,9 +53,9 @@ Twelve has no other equal partitions. The sections below walk through the table 
 
 ![Two sixes: whole-tone scales and primary/intermediate color sixes](figures/english/synesthesia/6&6_6-6.png)
 
-Vertices one step apart form the whole-tone scale $C, D, E, F\#, G\#, A\#$; the other six form the second scale $C\#, D\#, F, G, A, B$. Color has the same two classes: the primary six R Y G C B M and the intermediate one (orange, chartreuse, azure…).
+Vertices one step apart form the whole-tone scale $C, D, E, F\\#, G\\#, A\\#$; the other six form the second scale $C\\#, D\\#, F, G, A, B$. Color has the same two classes: the primary six R Y G C B M and the intermediate one (orange, chartreuse, azure…).
 
-The intermediate six is the primary six averaged: each of its colors is a blend of two neighboring primaries, each note the midpoint of a step ($C\#$ between $C$ and $D$); hence the products in its divisors. The geometric construction of this averaging follows below.
+The intermediate six is the primary six averaged: each of its colors is a blend of two neighboring primaries, each note the midpoint of a step ($C\\#$ between $C$ and $D$); hence the products in its divisors. The geometric construction of this averaging follows below.
 
 ## Pairs → Tritones and Complementary Colors
 
@@ -67,7 +67,7 @@ Two vertices six steps apart stand directly opposite each other: in music this i
 
 ![Three fours: diminished seventh chords and color squares](figures/english/synesthesia/6&6_4-4.png)
 
-Four vertices spaced three steps apart form a diminished seventh chord ($C, D\#, F\#, A$); there are three of them. In color, this is a "square." Color theory uses squares less often than pairs and triads, even though the partition is just as regular; the reason is worked out below.
+Four vertices spaced three steps apart form a diminished seventh chord ($C, D\\#, F\\#, A$); there are three of them. In color, this is a "square." Color theory uses squares less often than pairs and triads, even though the partition is just as regular; the reason is worked out below.
 
 ## Threes → RGB, CMY, and Augmented Triads
 
@@ -75,10 +75,10 @@ Four vertices spaced three steps apart form a diminished seventh chord ($C, D\#,
 
 Three vertices spaced four steps apart form an augmented triad in music, a triad in color. Two triads of the primary six are the best-known ones:
 
-* $C, E, G\# \to \text{RGB}$: the primary colors of light, adding up from black to white;
-* $D, F\#, A\# \to \text{CMY}$: the primary colors of pigment, subtracting down from white to black.
+* $C, E, G\\# \to \text{RGB}$: the primary colors of light, adding up from black to white;
+* $D, F\\#, A\\# \to \text{CMY}$: the primary colors of pigment, subtracting down from white to black.
 
-Two more triads sit on the intermediate vertices ($C\#–F–A$, $D\#–G–B$). Music does not distinguish among these four triples — one augmented triad in four transpositions; the light/pigment distinction exists only on the color side.
+Two more triads sit on the intermediate vertices ($\text{C\\#–F–A}$, $\text{D\\#–G–B}$). Music does not distinguish among these four triples — one augmented triad in four transpositions; the light/pigment distinction exists only on the color side.
 
 ![Two basic color triads RGB and CMY on the octahedral frame](figures/english/synesthesia/octa_color.png)
 
@@ -86,11 +86,11 @@ The primary six has a canonical construction. The cube $2^3$ is the eight states
 
 ![Binary 3-cube and six chromatic vertices without poles](figures/english/synesthesia/cubes.png)
 
-Among them there are exactly three types of relation, by the number of channels in which vertices differ: a cycle of six steps (one channel), two triangles $\{R,G,B\}$ and $\{C,M,Y\}$ (two channels), and three diagonals, "color $\leftrightarrow$ complement" (all three channels). Together these form the frame of an octahedron: $6 + 6 = 12$ edges and three axes.
+Among them there are exactly three types of relation, by the number of channels in which vertices differ: a cycle of six steps (one channel), two triangles $\\{R,G,B\\}$ and $\\{C,M,Y\\}$ (two channels), and three diagonals, "color $\leftrightarrow$ complement" (all three channels). Together these form the frame of an octahedron: $6 + 6 = 12$ edges and three axes.
 
 ![Octahedral frame: C6 cycle, opposing triads, and three antipodal axes](figures/english/synesthesia/octa_all.png)
 
-In notes, the cycle is the whole-tone scale, the triangles are the triads $C–E–G\#$ and $D–F\#–A\#$, the diagonals are tritones. In numbers, this is the six divisors of thirty: the axes are the primes $2, 3, 5$, the diagonals the pairs $d \leftrightarrow 30/d$.
+In notes, the cycle is the whole-tone scale, the triangles are the triads $\text{C–E–G\\#}$ and $\text{D–F\\#–A\\#}$, the diagonals are tritones. In numbers, this is the six divisors of thirty: the axes are the primes $2, 3, 5$, the diagonals the pairs $d \leftrightarrow 30/d$.
 
 *(A detailed treatment of the six-point structure is in the post [Observer as a Finite Structure of Distinction](https://www.reddit.com/r/cybernetics/comments/1tbc6wm/observer_as_a_finite_structure_of_distinction/); here it doubles to twelve.)* An octahedron has exactly twelve edges — below, they become the twelve vertices of an icosahedron.
 
@@ -130,11 +130,11 @@ One circle, with its divisor partitions, organizes musical and color symmetries 
 
 ## Postscript: Divisors, the Five, and the Golden Ratio
 
-**Divisors and rotations.** The rotation orders compatible with a periodic lattice are $\{1, 2, 3, 4, 6\}$ (the crystallographic restriction theorem); $12$ is their least common multiple — twelve accommodates all periodic symmetries at once. Five is not among them.
+**Divisors and rotations.** The rotation orders compatible with a periodic lattice are $\\{1, 2, 3, 4, 6\\}$ (the crystallographic restriction theorem); $12$ is their least common multiple — twelve accommodates all periodic symmetries at once. Five is not among them.
 
 **The five is golden.** A 5-fold axis requires the irrational number $\varphi = 2\cos(\pi/5) = \frac{1+\sqrt{5}}{2}$ — which is why quasicrystals with 5-fold axes came as a surprise. Bring in the five, and the least common multiple jumps from $12$ to:
 
-$$60 = \operatorname{lcm}\{1,\dots,6\} = |A_5|$$
+$$60 = \operatorname{lcm}\\{1,\dots,6\\} = |A_5|$$
 
 the order of the icosahedron's rotation group; $12 = 60/5$ is the orbit of the 5-fold axis. Twelve is the limit of the periodic world; the transition octahedron $\to$ icosahedron trades the 4-fold axis (the diminished seventh) for a 5-fold one — the diminished seventh is the price of that step.
 
