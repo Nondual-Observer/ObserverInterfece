@@ -811,7 +811,7 @@ The union $R_1\cup R_2$ is $K_{2,2,2}$. These correspondences preserve the chose
 
 *The diagrams with two octahedra and the icosahedron show a further extension of the labeling; its detailed mathematical analysis is presented in a separate publication.*
 
-The color vertices, notes of the whole-tone scale, and divisors of 30 realize one and the same three-layer relational scheme. A further development of this structure into a 12-part icosahedral system is investigated in [“Combinatorial Synesthesia: Chords and Colors as Arithmetic of Divisors on the Icosahedron”](https://habr.com/ru/articles/1058556/).
+The color vertices, notes of the whole-tone scale, and divisors of 30 realize one and the same three-layer relational scheme. A further development of this structure into a 12-part icosahedral system is investigated in [“Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron”](synesthesia.html) (also on [Reddit](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/)).
 
 ![12-part icosahedral extension](figures/english/1024w/12_ikosaedr.png)
 
@@ -862,7 +862,7 @@ Individual parts of the model have been discussed in previously published articl
 
 - [“The Observer as a Finite Structure of Distinction”](https://www.reddit.com/r/cybernetics/comments/1tbc6wm/observer_as_a_finite_structure_of_distinction/) — development of the minimal observer model on the Boolean cube, the six-point scene, the octahedron, and an opponent color wheel.
 - [“Observer and Distinction: Dual Faces of One ∞”](https://www.reddit.com/r/combinatorics/comments/1us793e/observer_and_distinction_dual_faces_of_one/) — the boundary of the discrete model, the prohibition of a fixed point of reversal, and the passage to a continuous space with a center of symmetry.
-- [“Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron”](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
+- [“Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron”](synesthesia.html) ([Reddit](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/)) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
 
 An earlier version of the project is available in the [DOT: Distinction Observable Theory archive, version 4](https://github.com/Nondual-Observer/DOTheory).
 

@@ -13,8 +13,11 @@ This repository hosts the web edition of the research article investigating the 
 
 ### Contents
 
-* [`index.md`](index.md) — The complete article in English with formal combinatorial specifications, proofs, and projections.
-* [`figures/english/1024w/`](figures/english/1024w/) — High-resolution figures and animated geometric duality diagrams.
+* [`index.md`](index.md) — The complete article in English: "The Interface of Observation: A Structural and Mathematical Model of Distinction".
+* [`ru/index.md`](ru/index.md) — Полная версия статьи на русском языке: «Интерфейс наблюдателя: как математически формализовать акт различения».
+* [`synesthesia.md`](synesthesia.md) — Accompanying article in English: "Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron".
+* [`ru/synesthesia.md`](ru/synesthesia.md) — Статья на русском языке: «Комбинаторная синестезия: аккорды и цвета как арифметика делителей на икосаэдре».
+* [`figures/`](figures/) — High-resolution figures for English and Russian articles.
 * `_layouts/default.html` & `_config.yml` — GitHub Pages configuration with MathJax 3 LaTeX rendering and responsive typography.
 
 ### Project Archive & Author
