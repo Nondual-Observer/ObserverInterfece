@@ -23,4 +23,5 @@ This repository hosts the web edition of the research article investigating the 
 ### Project Archive & Author
 
 * **Project Archive:** [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory) (Russian edition: [README_RU.md](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md))
+* **Support:** [Support the Research](https://github.com/Nondual-Observer/DOTheory#support) (на русском: [Поддержать исследование](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md#поддержка))
 * **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com)) / Distinction Observable Theory (DOT / TNR) Research Group
