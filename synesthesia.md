@@ -10,7 +10,7 @@ permalink: /synesthesia.html
 ---
 
 <div class="lang-switch">
-  <span>🌐 <strong>Language:</strong> English &bull; <a href="./">Main Article ("The Interface of Observation")</a></span>
+  <span>🌐 <strong>Language:</strong> English &bull; <a href="./">"The Interface of Observation"</a> &bull; <a href="gray-wall.html">"The Gray Wall"</a></span>
   <a href="ru/synesthesia.html" class="lang-btn">🇷🇺 Читать на русском (RU)</a>
 </div>
 

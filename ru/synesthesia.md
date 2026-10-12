@@ -10,7 +10,7 @@ permalink: /ru/synesthesia.html
 ---
 
 <div class="lang-switch">
-  <span>🌐 <strong>Язык:</strong> Русский &bull; <a href="./">Главная статья («Интерфейс наблюдателя»)</a></span>
+  <span>🌐 <strong>Язык:</strong> Русский &bull; <a href="./">«Интерфейс наблюдателя»</a> &bull; <a href="gray-wall.html">«Серая стена»</a></span>
   <a href="../synesthesia.html" class="lang-btn">🇬🇧 Read in English (EN)</a>
 </div>
 

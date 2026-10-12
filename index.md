@@ -9,7 +9,7 @@ lang: en
 ---
 
 <div class="lang-switch">
-  <span>🌐 <strong>Language:</strong> English</span>
+  <span>🌐 <strong>Language:</strong> English &bull; <a href="synesthesia.html">"Combinatorial Synesthesia"</a> &bull; <a href="gray-wall.html">"The Gray Wall"</a></span>
   <a href="ru/" class="lang-btn">🇷🇺 Читать на русском (RU)</a>
 </div>
 
@@ -863,6 +863,7 @@ Individual parts of the model have been discussed in previously published articl
 - [“The Observer as a Finite Structure of Distinction”](https://www.reddit.com/r/cybernetics/comments/1tbc6wm/observer_as_a_finite_structure_of_distinction/) — development of the minimal observer model on the Boolean cube, the six-point scene, the octahedron, and an opponent color wheel.
 - [“Observer and Distinction: Dual Faces of One ∞”](https://www.reddit.com/r/combinatorics/comments/1us793e/observer_and_distinction_dual_faces_of_one/) — the boundary of the discrete model, the prohibition of a fixed point of reversal, and the passage to a continuous space with a center of symmetry.
 - [“Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron”](synesthesia.html) ([Reddit](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/)) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
+- [“The Gray Wall of Singularity: Intelligible Singularity and the Vulnerable World”](gray-wall.html) — exploratory scenario modeling: human-comprehensible metamathematics of AGI, Bostrom's vulnerable world, and the civilizational shift to relational singularity.
 
 An earlier version of the project is available in the [DOT: Distinction Observable Theory archive, version 4](https://github.com/Nondual-Observer/DOTheory).
 
