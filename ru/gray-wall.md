@@ -18,7 +18,8 @@ permalink: /ru/gray-wall.html
 
 **Автор:** Игорь Жук ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Исследовательский проект Distinction Observable Theory (DOT / ТНР)*  
-*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md)
+*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md)  
+*English Edition:* [gray-wall.md](../gray-wall.md) (GitHub) &bull; [Web Edition (EN)](https://nondual-observer.github.io/ObserverInterfece/gray-wall.html)
 
 > **Epistemic status:** _Exploratory / Scenario Modeling. Вероятность того, что траектория AGI пойдет по пути Интеллигибельной теории (компактной и понятной человеку), а не навсегда останется непроницаемым чёрным ящиком, оцениваю как умеренную (~15–25%), но считаю её критически недоисследованной. Фокус статьи — мысленный эксперимент с одним жестко заданным граничным условием._
 
@@ -53,7 +54,6 @@ permalink: /ru/gray-wall.html
 В середине XIX века Джеймс Клерк Максвелл объединил исследования электричества и магнетизма в общую теорию электромагнитного поля. Её уравнения связали свет с электромагнитными волнами и предсказали явления, позднее подтверждённые экспериментально. *Из прежде раздельных областей возникла целостная физическая картина, на которой со временем выросли радиосвязь и многие другие технологии.* [История уравнений Максвелла](https://spectrum.ieee.org/the-long-road-to-maxwells-equations).
 
 ![Оммаж картине Рене Магритта «Недопустимое воспроизведение» (1937)](../figures/gray-wall/1_magritte_homage.jpg)
-<p align="center"><em>Илл. 1. Оммаж картине Рене Магритта <a href="https://en.wikipedia.org/wiki/Not_to_Be_Reproduced" target="_blank" rel="noopener">«Недопустимое воспроизведение»</a> (La reproduction interdite, 1937).</em></p>
 
 В начале XX века математический аппарат бесконечномерных структур, заложенный Давидом Гильбертом, спустя 15 лет оказался идеальным кандидатом при построении строгого языка квантовой механики. Затем и Джон фон Нейман в 1927 году придал ему современную абстрактную форму и применил к квантовой теории. *Так математика, развивавшаяся ради одного круга задач, стала основой понимания другого раздела практической науки.* [Историческое исследование Клааса Ландсмана](https://academic.oup.com/edited-volume/43513/chapter-abstract/364215973).
 
@@ -86,7 +86,6 @@ permalink: /ru/gray-wall.html
 ### Серая стена: способности растут быстрее самозащиты
 
 ![Аллюзия на сову с обложки трактата Ника Бострома «Искусственный интеллект» (2014)](../figures/gray-wall/2_bostrom_owl_homage.jpg)
-<p align="center"><em>Илл. 2. Аллюзия на сову с обложки трактата Ника Бострома <a href="https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies" target="_blank" rel="noopener">«Искусственный интеллект. Этапы, угрозы, стратегии»</a> (Superintelligence, 2014).</em></p>
 
 Обычно технологическую сингулярность изображают всё более крутой экспонентой. Но заявленное математическое представление способно создать иной тип перехода. Компьютеры уже произведены, научные коллективы уже существуют, средства распространения информации работают. Когда появляется более эффективный метод, всё это оборудование и все эти коллективы смогут тогда начать решать задачи, которые ещё вчера были им недоступны.
 
@@ -133,7 +132,6 @@ permalink: /ru/gray-wall.html
 Мы приблизились к возможности обладать почти божественными технологиями. Вопрос в том, успеем ли мы научиться быть целым.
 
 ![Отсылка к классической иллюстрации Ивана Билибина к «Сказке о рыбаке и рыбке»](../figures/gray-wall/3_bilibin_fisherman_homage.jpg)
-<p align="center"><em>Илл. 3. Отсылка к классической иллюстрации Ивана Билибина (1908) к <a href="https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_-_illustration-for-the-poem-the-tale-of-the-fisherman-and-the-fish-by-alexander-pushkin-19081.jpg" target="_blank" rel="noopener">«Сказке о рыбаке и рыбке»</a> А. С. Пушкина.</em></p>
 
 ---
 

@@ -18,7 +18,8 @@ permalink: /gray-wall.html
 
 **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Preprint / Research Project DOT (Distinction Observable Theory)*  
-*Project Archive:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory)
+*Project Archive:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory)  
+*Russian Edition:* [ru/gray-wall.md](ru/gray-wall.md) (GitHub) &bull; [Веб-версия (RU)](https://nondual-observer.github.io/ObserverInterfece/ru/gray-wall.html)
 
 > **Epistemic status:** _Exploratory / Scenario Modeling. I estimate the probability of the AGI trajectory following an Intelligible Theory (compact and comprehensible to humans), rather than remaining permanently an opaque black box, to be moderate (~15–25%), yet consider it critically underexplored. The focus of this essay is a thought experiment with a single strictly defined boundary condition._
 
@@ -53,7 +54,6 @@ Under our specified premise, the prospective scientific discovery of interest is
 In the mid-19th century, James Clerk Maxwell unified the study of electricity and magnetism into a general theory of the electromagnetic field. His equations linked light to electromagnetic waves and predicted phenomena later confirmed experimentally. *From previously separated domains arose a coherent physical picture, from which radio communications and countless other technologies eventually grew.* [The Long Road to Maxwell's Equations](https://spectrum.ieee.org/the-long-road-to-maxwells-equations).
 
 ![Homage to René Magritte's "Not to Be Reproduced" (1937)](figures/gray-wall/1_magritte_homage.jpg)
-<p align="center"><em>Fig. 1. Homage to René Magritte's painting <a href="https://en.wikipedia.org/wiki/Not_to_Be_Reproduced" target="_blank" rel="noopener">“Not to Be Reproduced”</a> (La reproduction interdite, 1937).</em></p>
 
 In the early 20th century, the mathematical apparatus of infinite-dimensional structures developed by David Hilbert proved, fifteen years later, to be the ideal foundation for the rigorous formulation of quantum mechanics. Then, in 1927, John von Neumann gave it its modern abstract form and applied it to quantum theory. *Thus, mathematics developed for one set of problems became the cornerstone for understanding an entirely different branch of practical science.* [Klaas Landsman's historical study](https://academic.oup.com/edited-volume/43513/chapter-abstract/364215973).
 
@@ -86,7 +86,6 @@ In the strongest scenario, this framework would give rise to new algorithms that
 ### The Gray Wall: Capabilities Outpace Defenses
 
 ![Allusion to the owl on the cover of Nick Bostrom's "Superintelligence" (2014)](figures/gray-wall/2_bostrom_owl_homage.jpg)
-<p align="center"><em>Fig. 2. Allusion to the owl from the cover of Nick Bostrom's treatise <a href="https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies" target="_blank" rel="noopener">“Superintelligence: Paths, Dangers, Strategies”</a> (2014).</em></p>
 
 The technological singularity is usually visualized as an ever-steeper exponential curve. But our hypothesized mathematical leap can generate a distinct transition dynamic. Computers are already manufactured; research teams already exist; global information networks are already functional. The moment a vastly more efficient method appears, all that existing hardware and all those teams can immediately begin tackling problems that were intractable only yesterday.
 
@@ -133,7 +132,6 @@ For a civilization endowed with abruptly magnified technological leverage, this 
 We have arrived at the threshold of near-godlike technologies. The question is whether we will learn in time to live as a whole.
 
 ![Homage to Ivan Bilibin's classic illustration for "The Tale of the Fisherman and the Fish"](figures/gray-wall/3_bilibin_fisherman_homage.jpg)
-<p align="center"><em>Fig. 3. Homage to Ivan Bilibin's classic illustration (1908) for A. S. Pushkin's <a href="https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_-_illustration-for-the-poem-the-tale-of-the-fisherman-and-the-fish-by-alexander-pushkin-19081.jpg" target="_blank" rel="noopener">“The Tale of the Fisherman and the Fish”</a>.</em></p>
 
 ---
 
