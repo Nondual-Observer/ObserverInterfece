@@ -148,10 +148,9 @@ permalink: /ru/gray-wall.html
 - Майкл Нильсен — [ASI Existential Risk: Reconsidering Alignment as a Goal](https://michaelnotebook.com/xriskbrief/), 2025.
 - Жак Фреско — [The Best That Money Can't Buy](https://www.thevenusproject.com/), 2002.
 
-**О примечаниях к иллюстрациям:**
-1. **Первая иллюстрация:** оммаж картине Рене Магритта [«Недопустимое воспроизведение»](https://en.wikipedia.org/wiki/Not_to_Be_Reproduced) (*La reproduction interdite*, 1937). 
-2. **Вторая иллюстрация:** аллюзия на сову с обложки трактата Ника Бострома [«Искусственный интеллект. Этапы, угрозы, стратегии»](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) (*Superintelligence*, 2014).
-3. **Третья иллюстрация:** отсылка к классической иллюстрации Ивана Билибина (1908) к [«Сказке о рыбаке и рыбке»](https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_-_illustration-for-the-poem-the-tale-of-the-fisherman-and-the-fish-by-alexander-pushkin-19081.jpg) А. С. Пушкина.
+- Первая иллюстрация: оммаж картине Рене Магритта [«Недопустимое воспроизведение»](https://en.wikipedia.org/wiki/Not_to_Be_Reproduced) (*La reproduction interdite*, 1937).
+- Вторая иллюстрация: аллюзия на сову с обложки трактата Ника Бострома [«Искусственный интеллект. Этапы, угрозы, стратегии»](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) (*Superintelligence*, 2014).
+- Третья иллюстрация: отсылка к классической иллюстрации Ивана Билибина (1908) к [«Сказке о рыбаке и рыбке»](https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_-_illustration-for-the-poem-the-tale-of-the-fisherman-and-the-fish-by-alexander-pushkin-19081.jpg) А. С. Пушкина.
 
 ---
 

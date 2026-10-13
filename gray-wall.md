@@ -148,10 +148,9 @@ We have arrived at the threshold of near-godlike technologies. The question is w
 - Michael Nielsen — [ASI Existential Risk: Reconsidering Alignment as a Goal](https://michaelnotebook.com/xriskbrief/), 2025.
 - Jacque Fresco — [The Best That Money Can't Buy](https://www.thevenusproject.com/), 2002.
 
-**Notes on Illustrations:**
-1. **First illustration:** Homage to René Magritte's painting [“Not to Be Reproduced”](https://en.wikipedia.org/wiki/Not_to_Be_Reproduced) (*La reproduction interdite*, 1937).
-2. **Second illustration:** Allusion to the owl from the cover of Nick Bostrom's treatise [“Superintelligence: Paths, Dangers, Strategies”](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) (*Superintelligence*, 2014).
-3. **Third illustration:** Homage to Ivan Bilibin's classic illustration (1908) for A. S. Pushkin's [“The Tale of the Fisherman and the Fish”](https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_-_illustration-for-the-poem-the-tale-of-the-fisherman-and-the-fish-by-alexander-pushkin-19081.jpg).
+- First illustration: homage to René Magritte's painting [“Not to Be Reproduced”](https://en.wikipedia.org/wiki/Not_to_Be_Reproduced) (*La reproduction interdite*, 1937).
+- Second illustration: allusion to the owl from the cover of Nick Bostrom's treatise [“Superintelligence: Paths, Dangers, Strategies”](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) (*Superintelligence*, 2014).
+- Third illustration: homage to Ivan Bilibin's classic illustration (1908) for A. S. Pushkin's [“The Tale of the Fisherman and the Fish”](https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_-_illustration-for-the-poem-the-tale-of-the-fisherman-and-the-fish-by-alexander-pushkin-19081.jpg).
 
 ---
 
