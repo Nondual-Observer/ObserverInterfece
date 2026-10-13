@@ -17,8 +17,8 @@ This repository hosts the web edition of the research article investigating the 
 * [`ru/index.md`](ru/index.md) — Полная версия статьи на русском языке: «Интерфейс наблюдателя: как математически формализовать акт различения».
 * [`synesthesia.md`](synesthesia.md) — Accompanying article in English: "Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron".
 * [`ru/synesthesia.md`](ru/synesthesia.md) — Статья на русском языке: «Комбинаторная синестезия: аккорды и цвета как арифметика делителей на икосаэдре».
-* [`gray-wall.md`](gray-wall.md) — Essay in English: "The Gray Wall of Singularity: Intelligible Singularity and the Vulnerable World".
-* [`ru/gray-wall.md`](ru/gray-wall.md) — Эссе на русском языке: «Серая стена сингулярности: Интеллигибельная сингулярность и уязвимый мир».
+* [`gray-wall.md`](gray-wall.md) — Essay in English: "The Gray Wall of Singularity".
+* [`ru/gray-wall.md`](ru/gray-wall.md) — Эссе на русском языке: «Серая стена сингулярности».
 * [`figures/`](figures/) — High-resolution figures for English and Russian articles.
 * `_layouts/default.html` & `_config.yml` — GitHub Pages configuration with MathJax 3 LaTeX rendering and responsive typography.
 

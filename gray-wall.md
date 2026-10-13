@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Gray Wall of Singularity: Intelligible Singularity and the Vulnerable World"
+title: "The Gray Wall of Singularity"
 description: "What if the primary breakthrough of AGI is a deep mathematical theory accessible to human comprehension? An exploratory thought experiment: Nick Bostrom's Vulnerable World, the Gray Wall of capabilities, and the singularity of human relationships."
 author: "Igor Zhuk"
 email: "igor.m.zhuk@gmail.com"
@@ -14,7 +14,7 @@ permalink: /gray-wall.html
   <a href="ru/gray-wall.html" class="lang-btn">🇷🇺 Читать на русском (RU)</a>
 </div>
 
-# The Gray Wall of Singularity: Intelligible Singularity and the Vulnerable World
+# The Gray Wall of Singularity
 
 **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Preprint / Research Project DOT (Distinction Observable Theory)*  
