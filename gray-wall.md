@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "The Gray Wall of Singularity"
-description: "What if the primary breakthrough of AGI is a deep mathematical theory accessible to human comprehension? A scenario-based thought experiment: Nick Bostrom's vulnerable world hypothesis, the gray wall of capabilities, and the singularity of human relationships."
+description: "What if the primary breakthrough of AI is a deep mathematical theory accessible to human comprehension? A scenario-based thought experiment: Nick Bostrom's vulnerable world hypothesis, the gray wall of capabilities, and the singularity of human relationships."
 author: "Igor Zhuk"
 email: "igor.m.zhuk@gmail.com"
-keywords: "singularity, artificial intelligence, AGI, gray wall, vulnerable world, Nick Bostrom, great filter, intelligible singularity, DOT"
+keywords: "singularity, artificial intelligence, AI, gray wall, vulnerable world, Nick Bostrom, great filter, intelligible singularity, DOT"
 lang: en
 permalink: /gray-wall.html
 ---
