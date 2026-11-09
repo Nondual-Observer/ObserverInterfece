@@ -17,7 +17,7 @@ lang: ru
 
 **Автор:** Игорь Жук ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Препринт / Исследовательский проект DOT (Distinction Observable Theory)*  
-*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md)
+*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md)
 
 
 *Можно ли ввести наблюдателя и его первичное действие в строгую науку, избегая умозрительной метафизики и дурного регресса («кто наблюдает за наблюдателем»)?*
@@ -893,7 +893,7 @@ $$d(x)=2^{x_1}3^{x_2}5^{x_3}.$$
 - [«Комбинаторная синестезия: аккорды и цвета как арифметика делителей на икосаэдре»](synesthesia.html) ([Хабр](https://habr.com/ru/articles/1058556/)) — согласование модальностей восприятия через геометрию многогранников и арифметические решётки делителей.
 - [«Серая стена сингулярности»](gray-wall.html) — сценарное моделирование: постижимая метаматематика ИИ, гипотеза уязвимого мира Бострома и цивилизационный сдвиг к сингулярности человеческих отношений.
 
-Ранняя редакция проекта доступна в [архиве проекта DOTheory на GitHub](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md).
+Полное трёхтомное издание теории (Книги I–III, ред. v3.3) открыто в [репозитории DOTheory на GitHub](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md) и в [архиве Zenodo (DOI: 10.5281/zenodo.24086428)](https://doi.org/10.5281/zenodo.24086428).
 
 ---
 

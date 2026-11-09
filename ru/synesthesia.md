@@ -18,7 +18,7 @@ permalink: /ru/synesthesia.html
 
 **Автор:** Игорь Жук ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Исследовательский проект Distinction Observable Theory (DOT / ТНР)*  
-*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md)  
+*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md)  
 *Оригинал на Хабре:* [habr.com/ru/articles/1058556/](https://habr.com/ru/articles/1058556/) &bull; *English version on Reddit:* [r/combinatorics](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/)
 
 > Представьте, что 12 нот хроматической гаммы и 12 оттенков цветового круга — это не просто разные физические волны, воспринимаемые нашими органами чувств, а проекции единой математической структуры. Что если законы музыкальной гармонии (аккорды) и правила художественного контраста (цветовые схемы) можно описать с помощью чистой арифметики делителей на гранях правильного многогранника?
@@ -153,4 +153,4 @@ $$\times 3 \to \times 3 \to \div 2 \to \div 2 \to \times 5 \to \times 5 \to \div
 
 Эта конструкция представляет собой один из примеров теории Distinction Observable Theory (DOT): она трактует структуру различных областей как проекции единого каркаса, вырастающего из акта различения — булев куб, удаление полюсов, башня рангов, в которой октаэдр и икосаэдр занимают соседние этажи. Здесь этот каркас развёрнут конкретно: его можно услышать в аккордах и увидеть в цветовых гармониях, а шов между рациональным делением ребра пополам (кубооктаэдр) и золотым сечением (икосаэдр) — это тот самый шов между дискретным и непрерывным, который теория рассматривает в качестве общего предмета.
 
-Полная теория находится в открытом репозитории: [https://github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md)
+Полное трёхтомное издание теории находится в открытом репозитории: [https://github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md) (архив Zenodo: [https://doi.org/10.5281/zenodo.24086428](https://doi.org/10.5281/zenodo.24086428)).

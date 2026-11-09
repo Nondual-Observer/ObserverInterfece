@@ -18,7 +18,7 @@ permalink: /ru/gray-wall.html
 
 **Автор:** Игорь Жук ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Исследовательский проект Distinction Observable Theory (DOT / ТНР)*  
-*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md)  
+*Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md)  
 *English Edition:* [gray-wall.md](../gray-wall.md) (GitHub) &bull; [Web Edition (EN)](https://nondual-observer.github.io/ObserverInterfece/gray-wall.html)
 
 > **Epistemic status:** Exploratory / Scenario Modeling. Вероятность того, что развитие ИИ пойдет по пути Интеллигибельной теории (компактной и понятной человеку), а не навсегда останется непроницаемым чёрным ящиком, оцениваю как умеренную (~15–25%), но считаю её критически недоисследованной. Фокус статьи — мысленный эксперимент с одним жестко заданным граничным условием.
@@ -150,4 +150,4 @@ permalink: /ru/gray-wall.html
 
 - [«Интерфейс наблюдателя: как математически формализовать акт различения»](./) — фундаментальная статья цикла: связь шага изменения и контекста, булев куб и октаэдр.
 - [«Комбинаторная синестезия: аккорды и цвета как арифметика делителей на икосаэдре»](synesthesia.html) — 12 нот, 12 цветов и симметричные аккорды как арифметика делителей на многогранниках.
-- [Архив проекта DOTheory на GitHub](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md) — полный репозиторий исследований и формальных моделей.
+- [Архив проекта DOTheory на GitHub](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md) — полный репозиторий Книг I–III (ред. v3.3) и проверочного кода.

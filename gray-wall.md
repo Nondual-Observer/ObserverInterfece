@@ -18,7 +18,7 @@ permalink: /gray-wall.html
 
 **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Distinction Observable Theory Research Project (DOT / ТНР)*  
-*Project Archive:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md)  
+*Project Archive:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory)  
 *Russian Edition:* [ru/gray-wall.md](ru/gray-wall.md) (GitHub) &bull; [Web Edition (RU)](https://nondual-observer.github.io/ObserverInterfece/ru/gray-wall.html)
 
 > **Epistemic status:** Exploratory / Scenario Modeling. I estimate the probability of AI development following the path of an Intelligible Theory (compact and comprehensible to humans), rather than permanently remaining an impenetrable black box, to be moderate (~15–25%), but consider it critically underexplored. The focus of this article is a thought experiment with a single strictly defined boundary condition.
@@ -150,4 +150,4 @@ We have drawn close to the possibility of possessing near-divine technologies. T
 
 - [“The Observer Interface: How to Mathematically Formalize the Act of Distinction”](./) — foundational article of the series: connection between the step of change and context, Boolean cube, and octahedron.
 - [“Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron”](synesthesia.html) — 12 notes, 12 colors, and symmetric chords as divisor arithmetic on polyhedra.
-- [DOTheory Project Archive on GitHub](https://github.com/Nondual-Observer/DOTheory/blob/main/ru/README_RU.md) — full repository of formal research models and code.
+- [DOTheory Project Archive on GitHub](https://github.com/Nondual-Observer/DOTheory) — full repository of Books I–III (v3.3) and verification code.
