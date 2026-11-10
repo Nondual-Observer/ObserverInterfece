@@ -865,7 +865,7 @@ Individual parts of the model have been discussed in previously published articl
 - [“Combinatorial Synesthesia: Chords and Colors as Divisor Arithmetic on the Icosahedron”](synesthesia.html) ([Reddit](https://www.reddit.com/r/combinatorics/comments/1urhkt2/combinatorial_synesthesia_chords_and_colors_as/)) — coordination of perceptual modalities through polyhedral geometry and arithmetic lattices of divisors.
 - [“The Gray Wall of Singularity”](gray-wall.html) — exploratory scenario modeling: human-comprehensible metamathematics of AI, Bostrom's vulnerable world, and the civilizational shift to relational singularity.
 
-The full three-volume edition of the theory (Books I–III, v3.3) is available in the [DOTheory repository on GitHub](https://github.com/Nondual-Observer/DOTheory) and the [Zenodo archive (DOI: 10.5281/zenodo.24086428)](https://doi.org/10.5281/zenodo.24086428).
+The full three-volume edition of the theory (Books I–III, v3.3) is available in the [DOTheory repository on GitHub](https://github.com/Nondual-Observer/DOTheory) and the [Zenodo archive (DOI: 10.5281/zenodo.24092289)](https://doi.org/10.5281/zenodo.24092289).
 
 
 
