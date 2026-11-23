@@ -16,7 +16,7 @@ lang: ru
 # Интерфейс наблюдателя: как математически формализовать акт различения
 
 **Автор:** Игорь Жук ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
-*Препринт / Исследовательский проект DOT (Distinction Observable Theory)*  
+*Препринт / Исследовательский проект ТНР (Теория Наблюдаемого Различения)*  
 *Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md)
 
 

@@ -17,7 +17,7 @@ permalink: /gray-wall.html
 # The Gray Wall of Singularity
 
 **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
-*Distinction Observable Theory Research Project (DOT / ТНР)*  
+*Distinction Observable Theory (DOT) Research Project*  
 *Project Archive:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory)  
 *Russian Edition:* [ru/gray-wall.md](ru/gray-wall.md) (GitHub) &bull; [Web Edition (RU)](https://nondual-observer.github.io/ObserverInterfece/ru/gray-wall.html)
 
