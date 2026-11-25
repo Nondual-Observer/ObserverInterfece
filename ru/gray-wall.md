@@ -19,7 +19,8 @@ permalink: /ru/gray-wall.html
 **Автор:** Игорь Жук ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Исследовательский проект «Теория Наблюдаемого Различения» (ТНР)*  
 *Архив проекта:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory/blob/main/README_RU.md)  
-*English Edition:* [gray-wall.md](../gray-wall.md) (GitHub) &bull; [Web Edition (EN)](https://nondual-observer.github.io/ObserverInterfece/gray-wall.html)
+*English Edition:* [gray-wall.md](../gray-wall.md) (GitHub) &bull; [Web Edition (EN)](https://nondual-observer.github.io/ObserverInterfece/gray-wall.html)  
+*Публикация на Хабре (20.10.2026):* [habr.com/ru/articles/1096618](https://habr.com/ru/articles/1096618/)
 
 > **Epistemic status:** Exploratory / Scenario Modeling. Вероятность того, что развитие ИИ пойдет по пути Интеллигибельной теории (компактной и понятной человеку), а не навсегда останется непроницаемым чёрным ящиком, оцениваю как умеренную (~15–25%), но считаю её критически недоисследованной. Фокус статьи — мысленный эксперимент с одним жестко заданным граничным условием.
 

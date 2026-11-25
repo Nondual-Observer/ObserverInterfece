@@ -19,7 +19,7 @@ permalink: /gray-wall.html
 **Author:** Igor Zhuk ([igor.m.zhuk@gmail.com](mailto:igor.m.zhuk@gmail.com))  
 *Distinction Observable Theory (DOT) Research Project*  
 *Project Archive:* [github.com/Nondual-Observer/DOTheory](https://github.com/Nondual-Observer/DOTheory)  
-*Russian Edition:* [ru/gray-wall.md](ru/gray-wall.md) (GitHub) &bull; [Web Edition (RU)](https://nondual-observer.github.io/ObserverInterfece/ru/gray-wall.html)
+*Russian Edition:* [ru/gray-wall.md](ru/gray-wall.md) (GitHub) &bull; [Web Edition (RU)](https://nondual-observer.github.io/ObserverInterfece/ru/gray-wall.html) &bull; [Habr (RU)](https://habr.com/ru/articles/1096618/)
 
 > **Epistemic status:** Exploratory / Scenario Modeling. I estimate the probability of AI development following the path of an Intelligible Theory (compact and comprehensible to humans), rather than permanently remaining an impenetrable black box, to be moderate (~15–25%), but consider it critically underexplored. The focus of this article is a thought experiment with a single strictly defined boundary condition.
 
